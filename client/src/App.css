@@ -1,0 +1,55 @@
+.page{  
+  width: 1600px;  
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.register{
+  width: 40%;
+  height: 400px;
+  background: #fff;
+  border: 2px solid rgba(37, 37, 34, 0.516);
+  box-shadow: 4px 7px 12px #808080;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.page2{
+  width: 1500px;  
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login{
+  width: 40%;
+  height: 400px;
+  background: #fff;
+  border: 2px solid rgba(37, 37, 34, 0.516);
+  box-shadow: 4px 7px 12px #808080;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.posts-page{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.posts-field{
+  margin-top: 40px;
+  height: 100vh;
+  overflow-y: auto ;
+}
+
+.textarea{
+  width: 200px;
+ 
+}
