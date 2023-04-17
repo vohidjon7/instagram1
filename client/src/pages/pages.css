@@ -1,0 +1,209 @@
+.rg_page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.rg_form {
+    width: 35%;
+    height: 65%;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.rg_inp {
+    background: rgba(255, 255, 255, 0);
+    margin-top: 25px;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    color: rgba(4, 25, 65, 0.307);
+}
+
+.btn1:hover {
+    background: rgba(255, 255, 255, 0);
+    margin-top: 25px;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.rg_text {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.pr_page {
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 200px;
+}
+
+.pr_quti {
+    width: 100%;
+    min-height: 100vh;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 20px;
+}
+
+.pr_text {
+    width: 100%;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+}
+
+.pr_quti1 {
+    width: 100%;
+    text-align: center;
+}
+
+.pr_icon {
+    font-size: 200px;
+    color: rgb(10, 10, 71);
+}
+
+.pr_icon:hover {
+    cursor: pointer;
+}
+
+.pr_quti2 {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.pr_quti3 {
+    padding: 5px 30px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.pr_btn {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    color: rgba(4, 25, 65, 0.307);
+    margin-left: 10px;
+}
+
+.pr_img {
+    width: 200px;
+    height: 195px;
+    border-radius: 50%;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.btn:hover {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.ep_page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.ep_form {
+    width: 35%;
+    height: 75%;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.ep_btn {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    color: rgba(4, 25, 65, 0.307);
+}
+
+.ep_btn:hover {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.cp_form {
+    width: 35%;
+    height: 60%;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.cp_img {
+    width: 100%;
+    height: 230px;
+    border-radius: 20px;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+}
+
+.hm_page {
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 200px;
+}
+
+.hm_quti {
+    min-height: 100%;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 20px;
+    padding: 20px 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.hm_card {
+    background: none;
+    height: 380px;
+    margin: 10px;
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    color: rgba(4, 25, 65, 0.307);
+}
+
+.hm_inp {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-radius: 10px 0px 0px 10px;
+    color: rgba(4, 25, 65, 0.307);
+}
+
+.hm_btn {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-left: none;
+    color: rgba(4, 25, 65, 0.307);
+    border-radius: 0px 10px 10px 0px;
+}
+
+.hm_btn:hover {
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    border-left: none;
+}
+
+.hm_like {
+    border: 2px solid rgba(4, 25, 65, 0.307);
+    color: rgba(233, 72, 72, 0.729);
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 3px 7px 0px 7px;
+}
+.pr_quti4 {
+    min-height: 100%;
+    border-radius: 20px;
+    padding: 20px 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
